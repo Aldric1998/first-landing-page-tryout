@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("https://arthur-littm.github.io/startup-landing/images/background.png");
+  height: 150px;
+  padding: 50px 30px;
+  margin: auto;
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.btn-primary {
+  background-color: rgb(83, 221, 141);
+  opacity: 1;
+  font-weight: lighter;
+  color: rgb(247, 245, 243);
+  padding: 10px 10px;
+  border-radius: 50px;
+}
+.btn-primary:hover {
+  opacity: 0.4;
+  text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+.footer {
+  background-color: rgb(58, 55, 55);
+}
+.links {
+  text-align: center;
+  padding: 15px 20px;
+}
+.links a {
+  color: rgb(8, 211, 143);
+  font-size: 40px;
+}
